@@ -1,0 +1,47 @@
+.card {
+    width: 100px;
+    height: 140px;
+    border-radius: 10px;
+    background: white;
+    border: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    box-shadow: 2px 4px 8px rgba(0,0,0,0.3);
+    margin: 6px;
+    font-family: 'Georgia', serif;
+    transition: transform 0.4s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .corner {
+    position: absolute;
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+  
+  .top-left {
+    top: 6px;
+    left: 6px;
+    text-align: left;
+  }
+  
+  .bottom-right {
+    bottom: 6px;
+    right: 6px;
+    text-align: right;
+    transform: rotate(180deg);
+  }
+  
+  .suit-large {
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  

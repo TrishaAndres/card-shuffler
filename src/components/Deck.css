@@ -1,0 +1,28 @@
+.deck-container {
+    padding-top: 2rem;
+  }
+  
+  .deck-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .shuffle-button {
+    background-color: #ff4757;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .shuffle-button:hover {
+    background-color: #e84118;
+  }
+  
