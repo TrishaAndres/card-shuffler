@@ -25,7 +25,7 @@ Welcome to the **Card Shuffler Visualizer** – a sleek and interactive web app 
 
 ## 📸 Demo
 
-[👉 Live Demo on Netlify](https://cardshufflerta.netlify.app) *([replace with your actual URL](https://cardshufflerta.netlify.app))*
+[👉 Live Demo on Netlify](https://cardshufflerta.netlify.app) (https://cardshufflerta.netlify.app)
 
 ---
 
